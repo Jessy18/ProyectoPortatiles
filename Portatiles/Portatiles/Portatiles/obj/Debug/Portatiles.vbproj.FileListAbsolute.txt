@@ -59,3 +59,5 @@ G:\a trabajar primera presentacion\Portatiles\Portatiles\Portatiles\obj\Debug\Po
 G:\a trabajar primera presentacion\Portatiles\Portatiles\Portatiles\obj\Debug\Portatiles.vbproj.GenerateResource.Cache
 G:\a trabajar primera presentacion\Portatiles\Portatiles\Portatiles\obj\Debug\Portatiles.exe.licenses
 G:\a trabajar primera presentacion\Portatiles\Portatiles\Portatiles\obj\Debug\Portatiles.exe
+C:\Users\Jessenia\Documents\GitHub\ProyectoPortatiles\Portatiles\Portatiles\Portatiles\bin\Debug\Portatiles.exe.config
+C:\Users\Jessenia\Documents\GitHub\ProyectoPortatiles\Portatiles\Portatiles\Portatiles\obj\Debug\Portatiles.pdb
